@@ -46,4 +46,4 @@ The following Python libraries were used in this project:
 Clone the repository:
 
 ```bash
-https://github.com/CaptHarsh/PRODIGY_CS_01.git
+git clone https://github.com/CaptHarsh/PRODIGY_CS_01.git
